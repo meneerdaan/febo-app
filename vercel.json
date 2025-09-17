@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/drizzle.ts": {
+      "includeFiles": "db/**"
+    }
+  },
   "headers": [
     {
       "source": "/index.tsx",
