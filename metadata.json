@@ -1,0 +1,5 @@
+{
+  "name": "febo-app",
+  "description": "A simple Angular application that displays 'Hello, world'.",
+  "requestFramePermissions": []
+}
