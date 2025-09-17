@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { db } from '../src/db/drizzle-client';
-import { persoon } from '../src/db/schema';
+import { db } from '../db/drizzle-client';
+import { persoon } from '../db/schema';
 
 export default async function handler(
   req: VercelRequest,
